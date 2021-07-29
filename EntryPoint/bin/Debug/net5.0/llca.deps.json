@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "llca/1.0.0": {
+        "dependencies": {
+          "llcl": "1.0.0"
+        },
+        "runtime": {
+          "llca.dll": {}
+        }
+      },
+      "llcl/1.0.0": {
+        "runtime": {
+          "llcl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "llca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "llcl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
