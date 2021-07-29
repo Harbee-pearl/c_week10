@@ -7,7 +7,7 @@ namespace Day4
     {
         public static void FileStuff()
         {
-            string path = @"C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\Day 2\Day4\Example.pdf";
+            string path = @"..\Day4\Example.txt";
 
             if (File.Exists(path))
             {
