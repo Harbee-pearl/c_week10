@@ -28,5 +28,15 @@ namespace Day3
             this.Count++;
             return node;
         }
+
+        public void Print()
+        {
+            var temp = Head;
+            while (temp != null)
+            {
+                System.Console.WriteLine(temp.Value);
+                temp = temp.Next;
+            }
+        }
     }
 }

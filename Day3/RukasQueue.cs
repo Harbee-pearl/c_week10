@@ -43,7 +43,7 @@ namespace Day3
 
         public void Print()
         {
-            var temp = this.Head;
+            var temp = this.Tail;
             while (temp.Next != null)
             {
                 System.Console.WriteLine(temp.Value);

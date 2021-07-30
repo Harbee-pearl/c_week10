@@ -12,7 +12,6 @@ namespace MyLinkedList
         static void Main(string[] args)
         {
             
-            WorkingWithFiles.FileStuff();
             
 
         }

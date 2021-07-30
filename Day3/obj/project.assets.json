@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\Day 2\\Day3\\Day3.csproj",
+      "projectUniqueName": "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\myweek10files\\c_week10\\Day3\\Day3.csproj",
       "projectName": "Day3",
-      "projectPath": "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\Day 2\\Day3\\Day3.csproj",
+      "projectPath": "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\myweek10files\\c_week10\\Day3\\Day3.csproj",
       "packagesPath": "C:\\Users\\RUQAYAT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\Day 2\\Day3\\obj\\",
+      "outputPath": "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\myweek10files\\c_week10\\Day3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RUQAYAT\\AppData\\Roaming\\NuGet\\NuGet.Config"

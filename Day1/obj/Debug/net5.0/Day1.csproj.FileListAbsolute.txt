@@ -9,3 +9,14 @@ C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\Day 2\Day1\obj\Deb
 C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\Day 2\Day1\obj\Debug\net5.0\Day1.dll
 C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\Day 2\Day1\obj\Debug\net5.0\ref\Day1.dll
 C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\Day 2\Day1\obj\Debug\net5.0\Day1.pdb
+C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\myweek10files\c_week10\Day1\bin\Debug\net5.0\Day1.deps.json
+C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\myweek10files\c_week10\Day1\bin\Debug\net5.0\Day1.dll
+C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\myweek10files\c_week10\Day1\bin\Debug\net5.0\ref\Day1.dll
+C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\myweek10files\c_week10\Day1\bin\Debug\net5.0\Day1.pdb
+C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\myweek10files\c_week10\Day1\obj\Debug\net5.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\myweek10files\c_week10\Day1\obj\Debug\net5.0\Day1.AssemblyInfoInputs.cache
+C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\myweek10files\c_week10\Day1\obj\Debug\net5.0\Day1.AssemblyInfo.cs
+C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\myweek10files\c_week10\Day1\obj\Debug\net5.0\Day1.csproj.CoreCompileInputs.cache
+C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\myweek10files\c_week10\Day1\obj\Debug\net5.0\Day1.dll
+C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\myweek10files\c_week10\Day1\obj\Debug\net5.0\ref\Day1.dll
+C:\Users\RUQAYAT\Desktop\Software development\Backend\Week 10\myweek10files\c_week10\Day1\obj\Debug\net5.0\Day1.pdb

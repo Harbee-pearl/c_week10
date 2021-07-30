@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\Day 2\\Day4\\Day4.csproj": {}
+    "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\myweek10files\\c_week10\\Day4\\Day4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\Day 2\\Day4\\Day4.csproj": {
+    "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\myweek10files\\c_week10\\Day4\\Day4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\Day 2\\Day4\\Day4.csproj",
+        "projectUniqueName": "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\myweek10files\\c_week10\\Day4\\Day4.csproj",
         "projectName": "Day4",
-        "projectPath": "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\Day 2\\Day4\\Day4.csproj",
+        "projectPath": "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\myweek10files\\c_week10\\Day4\\Day4.csproj",
         "packagesPath": "C:\\Users\\RUQAYAT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\Day 2\\Day4\\obj\\",
+        "outputPath": "C:\\Users\\RUQAYAT\\Desktop\\Software development\\Backend\\Week 10\\myweek10files\\c_week10\\Day4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RUQAYAT\\AppData\\Roaming\\NuGet\\NuGet.Config"
